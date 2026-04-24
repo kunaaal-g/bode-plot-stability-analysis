@@ -32,9 +32,14 @@ The MATLAB script generates:
 
 ## Key Results
 
-* Gain Margin ≈ 27 dB
-* Phase Margin ≈ 63°
+* Gain Margin ≈ 26.8485
+* Phase Margin ≈ 62.9459
 * System is Stable
+
+## Bode Plot
+
+<img width="840" height="630" alt="1" src="https://github.com/user-attachments/assets/68c072f4-c2cd-4df8-8cd2-01f4ae75d688" />
+
 
 ## Tools Used
 
